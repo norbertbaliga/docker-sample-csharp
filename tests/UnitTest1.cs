@@ -10,9 +10,9 @@ namespace myWebApp.Tests
         {
             // Arrange
             int id = 1;
-            string lastName = "Whale";
-            string firstMidName = "Moby";
-            DateTime enrollmentDate = new DateTime(2013, 3, 15);
+            string lastName = "Norbert";
+            string firstMidName = "Baliga";
+            DateTime enrollmentDate = new DateTime(2013, 11, 6);
 
             // Act
             Student student = new Student
